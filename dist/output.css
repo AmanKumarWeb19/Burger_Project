@@ -534,7 +534,12 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.header {
+.bg-red-700 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(185 28 28 / var(--tw-bg-opacity));
+}
+
+.heade3 {
   background-color: blue;
   width: 100%;
   position: fixed;
