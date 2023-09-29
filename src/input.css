@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heade3 {
+  background-color: blue;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.navbar {
+  max-width: 1024px;
+  margin: auto;
+  height: 56px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  background-color: #0f004a;
+  gap: 20px;
+}
