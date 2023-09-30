@@ -580,28 +580,16 @@ video {
   left: 0px;
 }
 
+.right-4{
+  right: 1rem;
+}
+
 .top-0{
   top: 0px;
 }
 
-.top-\[\]{
-  top: ;
-}
-
-.top-\[0\]{
-  top: 0;
-}
-
-.top-\[0\.7re\]{
-  top: 0.7re;
-}
-
 .top-\[0\.7rem\]{
   top: 0.7rem;
-}
-
-.right-4{
-  right: 1rem;
 }
 
 .z-50{
@@ -646,10 +634,6 @@ video {
 
 .gap-5{
   gap: 1.25rem;
-}
-
-.text-ellipsis{
-  text-overflow: ellipsis;
 }
 
 .border-b{
