@@ -674,7 +674,7 @@ section{
 
 @keyframes move{
   50%{
-    transform: translate(-1rem);
+    transform: translateY(-1rem);
   }
 }
 
