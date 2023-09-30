@@ -42,3 +42,8 @@
     @apply text-paragraphColor text-xs leading-5;
   }
 }
+
+.tabs_wrap ul li:hover,
+.tabs_wrap ul li.active {
+  @apply bg-secondaryColor text-blackColor;
+}
