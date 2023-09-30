@@ -20,6 +20,14 @@ module.exports = {
         darkColor: "#000",
         dorkColorLight: "#171717",
       },
+      keyframes: {
+        move: {
+          "50%": { transform: "translate(-1rem)" },
+        },
+      },
+      animation: {
+        "movingY": "move 2s linear infinite",
+      },
     },
     container: {
       center: true,
@@ -29,7 +37,7 @@ module.exports = {
       },
     },
     fontFamily: {
-      oswald: ["Oswand", "sans-serif"],
+      oswald: ["Oswald", "sans-serif"],
       dmsans: ["DM Sans", "sans-serif"],
     },
   },
