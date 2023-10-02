@@ -145,3 +145,14 @@ const activeLink = () => {
 };
 
 window.addEventListener("scroll", activeLink);
+
+// ..........................................Scroll Reveal js......................................................
+
+const sr = ScrollReveal({
+  origin: "top",
+  distance: "60px",
+  duration: 2500,
+  delay: 400,
+});
+
+sr.reveal(".home__image")
