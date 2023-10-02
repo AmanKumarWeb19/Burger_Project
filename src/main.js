@@ -155,4 +155,20 @@ const sr = ScrollReveal({
   delay: 400,
 });
 
-sr.reveal(".home__image")
+sr.reveal(".home__image");
+
+sr.reveal(".home__content", { origin: "bottom" });
+
+sr.reveal(".category__card", { interval: 300 });
+
+sr.reveal(".promo__card1", { origin: "left" });
+sr.reveal(".promo__card2", { origin: "right" });
+
+sr.reveal(".about__img", { origin: "bottom" });
+sr.reveal(".about__content", { origin: "top" });
+
+sr.reveal(".menu__items", { origin: "left" });
+
+sr.reveal(".customer__review", { origin: "right" });
+
+sr.reveal(".footer");
