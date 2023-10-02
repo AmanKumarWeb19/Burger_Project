@@ -2,6 +2,14 @@
 
 Welcome to the Burger_Project, a website built with Tailwind CSS that offers a delightful user experience, combining sleek design, active navigation, responsive layouts, and interactive features.
 
+...
+
+**Explore the Deployed Website:** [Burger_Project App](https://burger-project-app.netlify.app/)
+
+Feel free to explore the live version of the website!
+
+...
+
 ## Tailwind CSS Setup
 
 We've utilized the Tailwind CLI for a quick and easy setup. Refer to the [Tailwind CSS documentation](https://tailwindcss.com/docs/installation) for detailed installation instructions.
