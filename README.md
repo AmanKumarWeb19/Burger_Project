@@ -18,6 +18,11 @@ When a user clicks on a navigation link, the link becomes active and change to a
 To achieve this, We use javascript.
 
 
+Responsive Design:
+
+Responsive website design is a web design way to create web pages render well. 
+It is the practice of creating a website fitting to work on every screen size and every device and no matter how large or small, mobile or desktop. In Tailwind CSS, 
+it’s very easy to build a responsive design so we were able to build a fully responsive burger website perfectly.
 
 
 
